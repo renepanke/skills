@@ -1,0 +1,4 @@
+interface:
+  display_name: "Explain Like I'm 5"
+  short_description: "Explain a topic with pictures a 5-year-old understands"
+  default_prompt: "Use $5yo to explain <topic> to me like I'm 5 years old, with pictures."

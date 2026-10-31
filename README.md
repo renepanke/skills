@@ -6,6 +6,7 @@ My agent skills. Each skill is a plain folder with a `SKILL.md` and works on its
 
 | Skill | Use it for |
 |---|---|
+| [`5yo`](skills/5yo/SKILL.md) | Explaining any topic with pictures and words a 5-year-old understands ("explain like I'm 5") |
 | [`handbook-writer`](skills/handbook-writer/SKILL.md) | A practical subject handbook as one Markdown document: cover, 20 chapters, closing checklist |
 | [`socratic-concept`](skills/socratic-concept/SKILL.md) | Understanding a concept, mechanism or idea by being questioned ("I want to understand X") |
 | [`socratic-source`](skills/socratic-source/SKILL.md) | Working through a paper, document, codebase or exam topic ("quiz me on this paper") |
