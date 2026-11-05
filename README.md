@@ -21,9 +21,9 @@ The socratic skills come from [renepanke/socratic-learning](https://github.com/r
 
 | Skill | Use it for |
 |---|---|
-| [`perplex`](skills/research/perplex/SKILL.md) | A quick web search with a direct, cited answer |
-| [`perplex-deep`](skills/research/perplex-deep/SKILL.md) | A multi-pass investigation with a cited report |
-| [`official`](skills/research/official/SKILL.md) | An answer drawn solely from official documentation and checked for deprecation |
+| [`research-perplex`](skills/research/research-perplex/SKILL.md) | A quick web search with a direct, cited answer |
+| [`research-perplex-deep`](skills/research/research-perplex-deep/SKILL.md) | Parallel web research by subagents, with follow-up verification and a cited report |
+| [`research-official`](skills/research/research-official/SKILL.md) | An answer drawn solely from official documentation and checked for deprecation |
 
 The research skills use the agent’s web tools and work without a Perplexity account or API key.
 

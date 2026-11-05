@@ -1,5 +1,5 @@
 ---
-name: official
+name: research-official
 description: Answer from official documentation only and verify that the guidance is current and supported for the requested version. Use for official-docs-only lookups or when the user asks whether documented guidance is deprecated.
 ---
 

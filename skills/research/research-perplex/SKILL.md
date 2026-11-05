@@ -1,5 +1,5 @@
 ---
-name: perplex
+name: research-perplex
 description: Run a Perplexity-style web search for a focused question and return a quick, cited answer. Use when the user asks for Perplexity-style search or a quick web lookup with sources.
 ---
 
