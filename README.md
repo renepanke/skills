@@ -8,12 +8,17 @@ My agent skills. Each skill is a plain folder with a `SKILL.md` and works on its
 |---|---|
 | [`5yo`](skills/5yo/SKILL.md) | Explaining any topic with pictures and words a 5-year-old understands ("explain like I'm 5") |
 | [`handbook-writer`](skills/handbook-writer/SKILL.md) | A practical subject handbook as one Markdown document: cover, 20 chapters, closing checklist |
-| [`socratic-concept`](skills/socratic-concept/SKILL.md) | Understanding a concept, mechanism or idea by being questioned ("I want to understand X") |
-| [`socratic-source`](skills/socratic-source/SKILL.md) | Working through a paper, document, codebase or exam topic ("quiz me on this paper") |
-| [`socratic-practice`](skills/socratic-practice/SKILL.md) | Learning by doing: a small exercise you solve yourself, run for real |
-| [`socratic-debug`](skills/socratic-debug/SKILL.md) | Practicing bug hunting: observe, hypothesise, test, fix |
-| [`socratic-exam`](skills/socratic-exam/SKILL.md) | An exam simulation with no hints, graded honestly afterwards |
-| [`socratic-review`](skills/socratic-review/SKILL.md) | 5 to 15 minutes of repetition on the weak spots that are due |
+
+### Socratic
+
+| Skill | Use it for |
+|---|---|
+| [`socratic-concept`](skills/socratic/socratic-concept/SKILL.md) | Understanding a concept, mechanism or idea by being questioned ("I want to understand X") |
+| [`socratic-source`](skills/socratic/socratic-source/SKILL.md) | Working through a paper, document, codebase or exam topic ("quiz me on this paper") |
+| [`socratic-practice`](skills/socratic/socratic-practice/SKILL.md) | Learning by doing: a small exercise you solve yourself, run for real |
+| [`socratic-debug`](skills/socratic/socratic-debug/SKILL.md) | Practicing bug hunting: observe, hypothesise, test, fix |
+| [`socratic-exam`](skills/socratic/socratic-exam/SKILL.md) | An exam simulation with no hints, graded honestly afterwards |
+| [`socratic-review`](skills/socratic/socratic-review/SKILL.md) | 5 to 15 minutes of repetition on the weak spots that are due |
 
 The socratic skills come from [renepanke/socratic-learning](https://github.com/renepanke/socratic-learning).
 
