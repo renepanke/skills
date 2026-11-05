@@ -5,6 +5,8 @@ description: Explain a topic to a young child through a short picture story. Use
 
 # Explain Like I'm 5
 
+Apply `references/writing.md` to all user-facing text before delivery.
+
 Write in the user's language. Speak directly to the child in the picture story and reserve technical detail for the grown-up note.
 
 1. **Pick one idea and one setting.** Choose the single thing the child should remember. Map it to a familiar setting such as playing with blocks, sharing food, or taking turns at the playground. Use that setting throughout.

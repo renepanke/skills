@@ -85,7 +85,7 @@ as in `skills/research/<skill-name>/SKILL.md`. The CLI discovers each skill by n
 
 ## Credits
 
-`scripts/ste-lint.py` and the writing rules in the socratic skills'
+`scripts/ste-lint.py` and the writing rules in each skill's
 `references/writing.md` are adapted from
 [ste-writing](https://github.com/1fc0nfig/ste-writing) by Ege Çelebi and Matyas
 Cerny (MIT), with the license notice at the top of the script.

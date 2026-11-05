@@ -5,6 +5,8 @@ description: Build a Mermaid tree to explore a problem, compare choices, or trac
 
 # Decision tree
 
+Apply `references/writing.md` to all user-facing text before delivery.
+
 Turn the user's problem into a Mermaid flowchart that supports the decision or analysis they need to make.
 
 ## Frame the problem

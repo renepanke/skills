@@ -5,6 +5,8 @@ description: Creates practical subject handbooks as pure Markdown documents (nev
 
 # Handbook Writer
 
+Apply `references/writing.md` to all user-facing text before delivery.
+
 This skill produces handbooks as **Markdown documents** in the style of a compact study-booklet series: **one cover block and 20 chapters, each chapter one self-contained `##` section**. Every chapter stands on its own; together they form an arc from fundamentals to production readiness. The structure was modelled on printed booklets with one page per chapter. In Markdown that "page" is simply a chapter section, so there is no page layout, page numbering or print formatting to reproduce. The full structure description with all tables is in `references/structure.md`. A fill-in template is in `assets/template.md`.
 
 ## Workflow
