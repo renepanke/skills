@@ -17,6 +17,16 @@ My agent skills. Each skill is a plain folder with a `SKILL.md` and works on its
 
 The socratic skills come from [renepanke/socratic-learning](https://github.com/renepanke/socratic-learning).
 
+### Research
+
+| Skill | Use it for |
+|---|---|
+| [`perplex`](skills/research/perplex/SKILL.md) | A quick web search with a direct, cited answer |
+| [`perplex-deep`](skills/research/perplex-deep/SKILL.md) | A multi-pass investigation with a cited report |
+| [`official`](skills/research/official/SKILL.md) | An answer drawn solely from official documentation and checked for deprecation |
+
+The research skills use the agent’s web tools and work without a Perplexity account or API key.
+
 ## Installation
 
 Like [mattpocock/skills](https://github.com/mattpocock/skills), via the
@@ -44,7 +54,7 @@ event for skills.sh.
 
 ### Manually
 
-Copy the folders from `skills/` to where your agent looks for skills:
+Copy each folder containing a `SKILL.md` directly into the folder where your agent looks for skills:
 
 | Agent | Folder |
 |---|---|
@@ -64,7 +74,8 @@ skills/
 ```
 
 To add a skill, create `skills/<skill-name>/SKILL.md` with `name` and
-`description` in the frontmatter. The CLI finds it automatically.
+`description` in the frontmatter. Related skills can share a category folder,
+as in `skills/research/<skill-name>/SKILL.md`. The CLI discovers each skill by name.
 
 ## Credits
 
