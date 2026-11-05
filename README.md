@@ -7,6 +7,7 @@ My agent skills. Each skill is a plain folder with a `SKILL.md` and works on its
 | Skill | Use it for |
 |---|---|
 | [`5yo`](skills/5yo/SKILL.md) | Explaining any topic with pictures and words a 5-year-old understands ("explain like I'm 5") |
+| [`decision-tree`](skills/decision-tree/SKILL.md) | Mapping decisions, causes, or diagnostic checks as a Mermaid tree |
 | [`handbook-writer`](skills/handbook-writer/SKILL.md) | A practical subject handbook as one Markdown document: cover, 20 chapters, closing checklist |
 
 ### Socratic
